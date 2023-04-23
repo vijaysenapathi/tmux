@@ -1,4 +1,4 @@
 My tmux config
 
-Preview:
-![](resources/preview.png?raw=true)
+*Preview:*
+![](preview.png?raw=true)
